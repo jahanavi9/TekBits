@@ -17,9 +17,7 @@ function App() {
     
       
       <Option></Option>
-      <Bu color="red" ></Bu>
-      <Bu color="green"></Bu>
-      
+     
       <Footer></Footer>
     </div>
   );
